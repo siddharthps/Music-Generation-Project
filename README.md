@@ -5,7 +5,7 @@ This project is about generating music using LSTM networks. The goal is to train
 
 ## Dataset 
 
-The dataset used for this project is sampled version from the Lakh MIDI dataset V0.1 by Colin Raffel. The dataset contains 176692 midi files. The full dataset is available at https://colinraffel.com/projects/lmd/.
+The dataset used for this project is sampled version from the Lakh MIDI dataset V0.1 by Colin Raffel. The full dataset is available at https://colinraffel.com/projects/lmd/.
 
 ## Methodology
 
